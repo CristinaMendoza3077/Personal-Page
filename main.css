@@ -1,6 +1,8 @@
-.about{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
 .header{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Palatino, 'Palatino Linotype', serif;
+    color: rgb(46,105,163);
+    font-size: 3rem;
+}
+.about{
+    font-family: Palatino, 'Palatino Linotype', serif;
 }
