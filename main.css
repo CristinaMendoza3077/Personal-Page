@@ -12,6 +12,7 @@
     font-family: "Times New Roman", Times, Palatino, 'Palatino Linotype', serif;
     color: white;
     font-size: 20px;
+    align-items: center;
 }
 
 nav li{
