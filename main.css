@@ -23,6 +23,10 @@ nav li{
     
 }
 
+.contact{
+    font-family: "Times New Roman", Times;
+}
+
 .contact a {
   cursor: pointer;
   margin-right: 30px;
