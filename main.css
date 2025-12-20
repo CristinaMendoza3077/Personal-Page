@@ -18,6 +18,15 @@ nav li{
     
 }
 
+.contact a {
+  cursor: pointer;
+  margin-right: 30px;
+  padding: 8px 18px;
+  border: 1px solid #204156;
+  position: relative;
+
+}
+
 .contact a:active {
   top: 2px;
 }
