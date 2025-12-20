@@ -3,6 +3,11 @@
     color: rgb(46,105,163);
     font-size: 2rem;
 }
+.all{
+    display: inline;
+    background-color: rgb(178, 195, 212);
+}
+
 .about{
     font-family: "Times New Roman", Times, Palatino, 'Palatino Linotype', serif;
     color: white;
