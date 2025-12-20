@@ -7,6 +7,8 @@
     font-family: Palatino, 'Palatino Linotype', serif;
     color: white;
     font-size: 10px;
+    display: flex;
+    align-items: right;
 }
 
 nav li{
