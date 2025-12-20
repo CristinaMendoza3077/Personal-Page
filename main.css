@@ -32,3 +32,9 @@ nav li{
 .contact a:active {
   top: 2px;
 }
+
+.image{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
