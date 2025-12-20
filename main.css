@@ -8,6 +8,10 @@
     background-color: black;
 }
 
+nav li{
+    display: inline;
+}
+
 .gallery{
     color: red;
     
