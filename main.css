@@ -4,11 +4,9 @@
     font-size: 2rem;
 }
 .about{
-    font-family: Palatino, 'Palatino Linotype', serif;
+    font-family: "Times New Roman", Times, Palatino, 'Palatino Linotype', serif;
     color: white;
     font-size: 10px;
-    display: flex;
-    align-items: right;
 }
 
 nav li{
